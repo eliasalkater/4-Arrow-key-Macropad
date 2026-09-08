@@ -1,3 +1,1 @@
-Arduino micro 4 arrow key macro pad:
-
-I made this as a fun little project, and it worked out well, I would like to scale it up in the future.
+I made this small project for a particular game I play called "The Binding of Isaac", I used an Arduino Pro Micro microcontroller, and assigned a pin to each key switch. Since there weren't many keys, a keyboard matrix wasn't needed, but still possible to implement.
